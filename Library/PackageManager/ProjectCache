@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638325696996049564
-    m_Hash: 1010242877
+      ticks: 638325715159935735
+    m_Hash: 1966945893
   m_LockFileStatus:
     m_FilePath: E:/Projetos/Estudos/FeedAnimals/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638325697300966538
-    m_Hash: 1035663092
+      ticks: 638325715159945748
+    m_Hash: 1132395109
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
